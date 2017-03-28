@@ -1,4 +1,16 @@
 {
   "title": "Edinburgh, Scotland - July 18 - 20, 2017",
-  "wiki": "https://github.com/RESTFest/2017-Edinburgh/wiki"
+  "wiki": "https://github.com/RESTFest/2017-Edinburgh/wiki",
+  "sponsors": {
+    "HEAD": [
+    ],
+    "PATCH": [
+    ],
+    "POST": [
+    ],
+    "GET": [
+    ],
+    "rel_friend": [
+    ]
+  }
 }
